@@ -4,7 +4,7 @@ Bu kiçik məqalədə özüm üçün faydalı hesab etdiyim sadə bir proyekt ha
 
 Proyektin ən vaxt aparan hissəsi zalda olan adamların sayını əldə etmək idi. Bunun üçün ən ilk addım kimi veb sayta daxil olaraq oradan adamların sayını əldə edə biləcəyimə inanırdım. Web scraping istifadə edərək bunun çox asan olduğunu düşünsəm də təəssüf ki, hesabıma daxil olduqdan sonra burada bu məlumatın əks olunmadığını aydın oldu. Yalnızca mobil tətbiqlərində bu mövcuddur bu rəqəm.
 
-<img src="./images/gym-app.jpeg" alt="drawing" width="200"/>
+<img src="./images/app-ui.jpeg" alt="drawing" width="200"/>
 
 Növbəti addım olaraq android tətbiqdən məlumatın necə götürülməsini araşdırmaq lazım gəldi. Nəzəri olaraq bunun mümkünlüyünu bilsəm də praktiki təcrübəm olmadığı üçün hansı tool'dan istifadə edə biləcəyimə qərar verə bilmirdim. QA mühəndisi olaraq çalışan iş yoldaşım mənə [Charles proxy](https://www.charlesproxy.com/) adlanan proxy və monitoring tool'u məsləhət gördü (Bunu oxuyub anlamasan da təşəkkürlər, Madis :)).
 
