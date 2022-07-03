@@ -1,0 +1,14 @@
+service: gym-reminder
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.8
+
+functions:
+  reminder:
+    handler: handler.notify
+    events:
+      - schedule: rate(1 hour)
+
